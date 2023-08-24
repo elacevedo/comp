@@ -1,0 +1,3 @@
+Go into workdir
+bash build.sh
+bash exec.sh <filepath> > <outputpath>
